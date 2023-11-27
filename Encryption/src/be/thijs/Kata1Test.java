@@ -1,4 +1,4 @@
-package be.thijs.codewars;
+package be.thijs;
 
 import static org.junit.jupiter.api.Assertions.*;
 

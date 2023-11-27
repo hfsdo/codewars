@@ -1,4 +1,4 @@
-package be.thijs.codewars;
+package be.thijs;
 
 //codewars: Simple Encryption #1 - Alternating Split
 
